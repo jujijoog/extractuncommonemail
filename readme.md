@@ -18,6 +18,8 @@ A simple bash script using grep and regular expression to first extract all emai
 Notes / Usage:
 
 
+-- Replace desired path to both input file and output file both before using.
+
 -- This script can be reversed to extract ONLY emails from major services simply by removing the -v argument in the second command.
 
 -- Services can be added or removed by editing the list of services in the second command.
